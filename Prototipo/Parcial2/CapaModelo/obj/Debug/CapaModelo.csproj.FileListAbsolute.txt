@@ -1,0 +1,6 @@
+C:\Users\Luis\Desktop\9no Semestre\Ingeniería de software\PrototipoIS2P2024\Prototipo\Parcial2\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\Luis\Desktop\9no Semestre\Ingeniería de software\PrototipoIS2P2024\Prototipo\Parcial2\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\Luis\Desktop\9no Semestre\Ingeniería de software\PrototipoIS2P2024\Prototipo\Parcial2\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\Luis\Desktop\9no Semestre\Ingeniería de software\PrototipoIS2P2024\Prototipo\Parcial2\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\9no Semestre\Ingeniería de software\PrototipoIS2P2024\Prototipo\Parcial2\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\Luis\Desktop\9no Semestre\Ingeniería de software\PrototipoIS2P2024\Prototipo\Parcial2\CapaModelo\obj\Debug\CapaModelo.pdb

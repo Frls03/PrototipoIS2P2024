@@ -41,6 +41,9 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\..\..\..\..\..\..\..\..\..\..\Program Files\UMG\Instalador General HSC\FontAwesome.Sharp.dll</HintPath>
     </Reference>
+    <Reference Include="Parcial2">
+      <HintPath>..\..\..\Prototipo\Parcial2\Parcial2\bin\Debug\Parcial2.dll</HintPath>
+    </Reference>
     <Reference Include="Seguridad_Controlador, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\..\..\..\..\..\..\..\..\..\..\Program Files\UMG\Instalador General HSC\Seguridad_Controlador.dll</HintPath>
